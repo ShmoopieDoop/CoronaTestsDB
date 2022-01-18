@@ -1,0 +1,2178 @@
+{
+  "location0": {
+    "status": 1,
+    "city-name": "אדורה",
+    "address": "הר חברון",
+    "start-time": "16:00",
+    "end-time": "22:00",
+    "geolocation": { "lat": 31.4174932, "lng": 35.0828588 }
+  },
+  "location1": {
+    "status": 0,
+    "city-name": "אום אל פחם",
+    "address": "מרכז אלחדר (שכ' שרפה)",
+    "start-time": "14:00",
+    "end-time": "16:00",
+    "geolocation": { "lat": 32.0622124, "lng": 34.7918017 }
+  },
+  "location2": {
+    "status": 0,
+    "city-name": "אופקים",
+    "address": "מרכז פיס קהילתי (רח' גולומב 11)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": {}
+  },
+  "location3": {
+    "status": 0,
+    "city-name": "אופקים",
+    "address": "קאנטרי קלאב (רח' יעקב מסיקה)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.3177719, "lng": 34.6126229 }
+  },
+  "location4": {
+    "status": 0,
+    "city-name": "אור יהודה",
+    "address": "הבריכה העירונית",
+    "start-time": "11:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0267291, "lng": 34.8550935 }
+  },
+  "location5": {
+    "status": 0,
+    "city-name": "אור עקיבא",
+    "address": "האילן 6 (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.5178429, "lng": 34.9218987 }
+  },
+  "location6": {
+    "status": 1,
+    "city-name": "אילת",
+    "address": "בית הפועל",
+    "start-time": "11:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0209808, "lng": 34.7527008 }
+  },
+  "location7": {
+    "status": 0,
+    "city-name": "אילת",
+    "address": "קניון אייס מול (ICE MALL)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 29.554164, "lng": 34.9656036 }
+  },
+  "location8": {
+    "status": 0,
+    "city-name": "אכסאל",
+    "address": "בי\"ס תיכון מחלקת צעירים",
+    "start-time": "15:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0789611, "lng": 34.8754653 }
+  },
+  "location9": {
+    "status": 0,
+    "city-name": "אלון מורה",
+    "address": "ישיבת אלון מורה",
+    "start-time": "08:00",
+    "end-time": "10:00",
+    "geolocation": { "lat": 32.2327104, "lng": 35.341888 }
+  },
+  "location10": {
+    "status": 1,
+    "city-name": "אלעד",
+    "address": "רבי עקיבא 14",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.09012, "lng": 34.8257027 }
+  },
+  "location11": {
+    "status": 0,
+    "city-name": "אלפי מנשה",
+    "address": "בקראוון שצמוד למתנ\"ס",
+    "start-time": "08:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0906327, "lng": 34.8639056 }
+  },
+  "location12": {
+    "status": 0,
+    "city-name": "אלקנה",
+    "address": "תחנת מד\"א מתחם תחנת דלק דור אלון",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0661163, "lng": 34.787281 }
+  },
+  "location13": {
+    "status": 0,
+    "city-name": "ארבל",
+    "address": "משרדי הוועד המקומי",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.2392847, "lng": 34.9961358 }
+  },
+  "location14": {
+    "status": 0,
+    "city-name": "אריאל",
+    "address": "היכל התרבות בתוך בית הקפה",
+    "start-time": "08:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0728034, "lng": 34.7791211 }
+  },
+  "location15": {
+    "status": 1,
+    "city-name": "אשדוד",
+    "address": "מתחם ביג",
+    "start-time": "09:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.022559, "lng": 34.7984809 }
+  },
+  "location16": {
+    "status": 0,
+    "city-name": "אשדוד",
+    "address": "מתנ\"ס י\"א",
+    "start-time": "10:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0718079, "lng": 34.8765936 }
+  },
+  "location17": {
+    "status": 1,
+    "city-name": "אשדוד",
+    "address": "קניון סימול צמוד לבית קולנוע",
+    "start-time": "09:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.7931201, "lng": 34.6386407 }
+  },
+  "location18": {
+    "status": 1,
+    "city-name": "אשקלון",
+    "address": "אולם הספורט מקיף ד",
+    "start-time": "16:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 31.7966766, "lng": 34.6448357 }
+  },
+  "location19": {
+    "status": 1,
+    "city-name": "אשקלון",
+    "address": "יצחק בן צבי 1 (היכל הספורט)",
+    "start-time": "09:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 31.6638594, "lng": 34.5708628 }
+  },
+  "location20": {
+    "status": 0,
+    "city-name": "באקה אל ע'רביה",
+    "address": "ביר באקה (תחנת מד\"א)",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.4145557, "lng": 35.0301246 }
+  },
+  "location21": {
+    "status": 0,
+    "city-name": "באר טוביה",
+    "address": "בכניסה לאמפיתאטרון מהחנייה",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 32.534723, "lng": 34.9483037 }
+  },
+  "location22": {
+    "status": 0,
+    "city-name": "באר יעקב",
+    "address": "אולם מקס רח' התאנה 1",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.9447015, "lng": 34.8361032 }
+  },
+  "location23": {
+    "status": 0,
+    "city-name": "באר שבע",
+    "address": "גראנד קניון",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0932981, "lng": 34.8653481 }
+  },
+  "location24": {
+    "status": 0,
+    "city-name": "באר שבע",
+    "address": "ישפרו פלאנט",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.2244175, "lng": 34.8014475 }
+  },
+  "location25": {
+    "status": 1,
+    "city-name": "באר שבע",
+    "address": "מתחם דיזיין פלוס",
+    "start-time": "11:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.2442461, "lng": 34.80634879999999 }
+  },
+  "location26": {
+    "status": 1,
+    "city-name": "באר שבע",
+    "address": "מתחם מבנה (וואן פלאזה לשעבר) רחוב יצחק נפחא 25",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location27": {
+    "status": 0,
+    "city-name": "באר שבע",
+    "address": "מתחם סינמה סיטי",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.1463519, "lng": 34.8040703 }
+  },
+  "location28": {
+    "status": 1,
+    "city-name": "באר שבע",
+    "address": "קניון שאול המלך",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.2576457, "lng": 34.7679858 }
+  },
+  "location29": {
+    "status": 1,
+    "city-name": "באר שבע",
+    "address": "בית הומא",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.2585412, "lng": 34.8062579 }
+  },
+  "location30": {
+    "status": 0,
+    "city-name": "בועיינה נוג'יידאת",
+    "address": "מתנ\"ס",
+    "start-time": "13:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location31": {
+    "status": 0,
+    "city-name": "בית אל",
+    "address": "אולם פסיפס",
+    "start-time": "20:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 31.9433411, "lng": 35.2220757 }
+  },
+  "location32": {
+    "status": 1,
+    "city-name": "בית אריה",
+    "address": "מוזה",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.7583537 }
+  },
+  "location33": {
+    "status": 0,
+    "city-name": "בית ברל",
+    "address": "אולם הספורט",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0823726, "lng": 34.8656172 }
+  },
+  "location34": {
+    "status": 0,
+    "city-name": "בית זרזיר",
+    "address": "מתנ\"ס בית זרזיר צמוד לקופ\"ח כללית",
+    "start-time": "09:00",
+    "end-time": "12:00",
+    "geolocation": { "lat": 32.7273795, "lng": 35.22477540000001 }
+  },
+  "location35": {
+    "status": 0,
+    "city-name": "בית יצחק",
+    "address": "קאנטרי (רח' המגדל)",
+    "start-time": "12:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0739622, "lng": 34.79809470000001 }
+  },
+  "location36": {
+    "status": 0,
+    "city-name": "בית רימון",
+    "address": "מזכירות היישוב",
+    "start-time": "18:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.7488594, "lng": 35.00726179999999 }
+  },
+  "location37": {
+    "status": 1,
+    "city-name": "בית שאן",
+    "address": "מרכז אילן (יעקב מרכוס 36, מול ביה\"כ יוצאי תימן)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location38": {
+    "status": 0,
+    "city-name": "בית שמש",
+    "address": "בן צבי 33 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.7488728, "lng": 34.990975 }
+  },
+  "location39": {
+    "status": 1,
+    "city-name": "בית שמש",
+    "address": "מתנ\"ס גוונים רחוב נחל דולב רמת בית שמש",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.7151352, "lng": 34.9961544 }
+  },
+  "location40": {
+    "status": 1,
+    "city-name": "ביתר עילית",
+    "address": "מתנ\"ס בנדר רחוב הרב בנדר",
+    "start-time": "14:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 31.2406369, "lng": 34.7707898 }
+  },
+  "location41": {
+    "status": 0,
+    "city-name": "בני ברק רבי ישראל אבוחצירא 7 (תחנת מד\"א)",
+    "address": "בני ברק רבי ישראל אבוחצירא 7 (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0934894, "lng": 34.8317586 }
+  },
+  "location42": {
+    "status": 1,
+    "city-name": "בני יהודה",
+    "address": "תחנת מד\"א (בתוך קופ\"ח כללית)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location43": {
+    "status": 0,
+    "city-name": "בנימינה",
+    "address": "העצמאות 96 (טיפת חלב לשעבר)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0847165, "lng": 34.83295 }
+  },
+  "location44": {
+    "status": 1,
+    "city-name": "בת חפר",
+    "address": "תחנת מד\"א",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location45": {
+    "status": 0,
+    "city-name": "בת ים",
+    "address": "הקאנטרי",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0676546, "lng": 34.8632113 }
+  },
+  "location46": {
+    "status": 0,
+    "city-name": "בת ים",
+    "address": "רבינוביץ 4 (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0135311, "lng": 34.7483987 }
+  },
+  "location47": {
+    "status": 1,
+    "city-name": "גבעת אבני",
+    "address": "בריכת גבעת אבני",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.7735995, "lng": 35.4357352 }
+  },
+  "location48": {
+    "status": 1,
+    "city-name": "גבעת זאב",
+    "address": "התאנה 6 (מתנ\"ס)",
+    "start-time": "11:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.863522, "lng": 35.1659448 }
+  },
+  "location49": {
+    "status": 0,
+    "city-name": "גבעת שמואל",
+    "address": "היכל הספורט החדש",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0716506, "lng": 34.8536539 }
+  },
+  "location50": {
+    "status": 1,
+    "city-name": "גבעתיים",
+    "address": "רח' המעורר 11",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0785105, "lng": 34.8077312 }
+  },
+  "location51": {
+    "status": 1,
+    "city-name": "גדרה",
+    "address": "בן גוריון (תחנת מד\"א)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.9389251, "lng": 34.8857412 }
+  },
+  "location52": {
+    "status": 0,
+    "city-name": "גוש עציון",
+    "address": "אלון שבות מבנה הספרייה חדר 6",
+    "start-time": "08:00",
+    "end-time": "13:00",
+    "geolocation": { "lat": 31.708154, "lng": 34.820213 }
+  },
+  "location53": {
+    "status": 0,
+    "city-name": "ג'לג'וליה",
+    "address": "ליד המסגד, בתחנת מד\"א (כביש 154)",
+    "start-time": "09:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 32.0338948, "lng": 34.85136749999999 }
+  },
+  "location54": {
+    "status": 0,
+    "city-name": "גליל עליון",
+    "address": "מרכז צעירים גליל עליון (אגמון החולה)",
+    "start-time": "08:00",
+    "end-time": "12:00",
+    "geolocation": { "lat": 33.1109809, "lng": 35.5819435 }
+  },
+  "location55": {
+    "status": 0,
+    "city-name": "גן יבנה",
+    "address": "במתנ\"ס (כניסה מכיוון הבריכה)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.064915, "lng": 34.8899228 }
+  },
+  "location56": {
+    "status": 1,
+    "city-name": "גן נר",
+    "address": "גן ילדים ליד בי\"ס ניר הגלבוע שכונה  חדשה",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1740965, "lng": 34.8541913 }
+  },
+  "location57": {
+    "status": 1,
+    "city-name": "גני תקווה",
+    "address": "רח' הגליל 39",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0569599, "lng": 34.8752066 }
+  },
+  "location58": {
+    "status": 0,
+    "city-name": "דבוריה",
+    "address": "אולם ספורט ליד בי\"ס תיכון",
+    "start-time": "11:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.0897729, "lng": 34.7941829 }
+  },
+  "location59": {
+    "status": 0,
+    "city-name": "דייר אל אסד",
+    "address": "מתנ\"ס",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location60": {
+    "status": 1,
+    "city-name": "דייר חנא",
+    "address": "תחנת מד\"א (על כביש 805 צמוד לתחנת דלק סונול)",
+    "start-time": "17:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.8623642, "lng": 35.2577655 }
+  },
+  "location61": {
+    "status": 0,
+    "city-name": "דימונה",
+    "address": "הרצל 16 (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0622179, "lng": 34.7924329 }
+  },
+  "location62": {
+    "status": 0,
+    "city-name": "דימונה",
+    "address": "מועדון הנוער העובד והלומד (שכ' ממשית)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0474466, "lng": 34.7943338 }
+  },
+  "location63": {
+    "status": 1,
+    "city-name": "הוד השרון רחוב הגפן , גן הגפן",
+    "address": "הוד השרון רחוב הגפן , גן הגפן",
+    "start-time": "18:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.1317977, "lng": 34.8441911 }
+  },
+  "location64": {
+    "status": 1,
+    "city-name": "הוד השרון, הרקון 2",
+    "address": "קניון שרונים (קומת קרקע מול חנות זיפ בחנות ענקית עם שילוט קארטינג)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1333771, "lng": 34.9015205 }
+  },
+  "location65": {
+    "status": 0,
+    "city-name": "היכל התרבות רחוב קהילת יהדות צרפת 1, מעלות תרשיחא",
+    "address": "היכל התרבות רחוב קהילת יהדות צרפת 1, מעלות תרשיחא",
+    "start-time": "14:30",
+    "end-time": "17:30",
+    "geolocation": {}
+  },
+  "location66": {
+    "status": 1,
+    "city-name": "המ\"ג 7 ירושלים (תחנת מדא)",
+    "address": "המ\"ג 7 ירושלים (תחנת מדא)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.7916038, "lng": 35.1996482 }
+  },
+  "location67": {
+    "status": 1,
+    "city-name": "הרצליה",
+    "address": "סוקולוב 76 (תחנת מד\"א)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1668346, "lng": 34.8488638 }
+  },
+  "location68": {
+    "status": 1,
+    "city-name": "הרצליה",
+    "address": "קניון ארנה, ליד שער B",
+    "start-time": "09:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1636494, "lng": 34.7968935 }
+  },
+  "location69": {
+    "status": 0,
+    "city-name": "ואדי ערה",
+    "address": "חניית גני מייס אלרים",
+    "start-time": "09:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.5045773, "lng": 35.0948382 }
+  },
+  "location70": {
+    "status": 1,
+    "city-name": "זכרון יעקב",
+    "address": "מול זכרון קומת קרקע סמוך לחנויות ללין וקרטרס (כביש 4)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.569213, "lng": 34.933579 }
+  },
+  "location71": {
+    "status": 1,
+    "city-name": "חדרה",
+    "address": "סינמה סיטי",
+    "start-time": "09:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1463519, "lng": 34.8040703 }
+  },
+  "location72": {
+    "status": 0,
+    "city-name": "חדרה",
+    "address": "רחוב הראשונים 11 אולגה מתנ\"ס",
+    "start-time": "10:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.4425402, "lng": 34.8866855 }
+  },
+  "location73": {
+    "status": 0,
+    "city-name": "חולון",
+    "address": "הקאנטרי (רח' הלוחמים)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0318345, "lng": 34.772452 }
+  },
+  "location74": {
+    "status": 0,
+    "city-name": "חולון",
+    "address": "לה פארק, פארק פרס (ליד מסעדת מקדונלדס)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0037351, "lng": 34.7971314 }
+  },
+  "location75": {
+    "status": 0,
+    "city-name": "חוף הכרמל",
+    "address": "מרכז מיר\"ב (בניין המועצה)",
+    "start-time": "08:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.6465438, "lng": 34.9650451 }
+  },
+  "location76": {
+    "status": 1,
+    "city-name": "חיפה",
+    "address": "גרנד קניון (קומה מינוס 5 מעל בתי הקולנוע, חדר יום הולדת)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location77": {
+    "status": 0,
+    "city-name": "חיפה",
+    "address": "יצחק שדה 10 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 32.824678, "lng": 34.9882598 }
+  },
+  "location78": {
+    "status": 1,
+    "city-name": "חיפה",
+    "address": "קניון חיפה עזריאלי קומה 2 מרפסת מתחם מזון מהיר",
+    "start-time": "08:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.789426, "lng": 34.963719 }
+  },
+  "location79": {
+    "status": 1,
+    "city-name": "חיפה",
+    "address": "קניון סינמול (לב המפרץ)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.7935409, "lng": 35.0374184 }
+  },
+  "location80": {
+    "status": 1,
+    "city-name": "חיפה",
+    "address": "חוף זמיר (ליד הנירוונה) רחוב דוד אלעזר",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.8004608, "lng": 34.9564781 }
+  },
+  "location81": {
+    "status": 0,
+    "city-name": "חצור הגלילית",
+    "address": "תחנת מד\"א (רח' אבא חלקיה)",
+    "start-time": "08:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location82": {
+    "status": 0,
+    "city-name": "חריש",
+    "address": "קניון חריש",
+    "start-time": "10:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.470799, "lng": 35.0389312 }
+  },
+  "location83": {
+    "status": 1,
+    "city-name": "טבריה",
+    "address": "בית גינצבורג",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.3298822, "lng": 34.8661995 }
+  },
+  "location84": {
+    "status": 1,
+    "city-name": "טבריה",
+    "address": "גן ארכיאולוגי (מתחם המלונות)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.087286, "lng": 34.8027541 }
+  },
+  "location85": {
+    "status": 1,
+    "city-name": "טבריה",
+    "address": "בית המוזיקה רחוב הנשיא ויצמן 6",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0929393, "lng": 34.7875482 }
+  },
+  "location86": {
+    "status": 1,
+    "city-name": "טיפול נמרץ אלישפאא טורעאן",
+    "address": "טיפול נמרץ אלישפאא טורעאן",
+    "start-time": "17:00",
+    "end-time": "22:40",
+    "geolocation": {}
+  },
+  "location87": {
+    "status": 1,
+    "city-name": "טירה",
+    "address": "מרכז רפואי אלרחמה (טארק עבדאלחי)",
+    "start-time": "09:00",
+    "end-time": "22:00",
+    "geolocation": { "lat": 32.2280603, "lng": 34.9419646 }
+  },
+  "location88": {
+    "status": 0,
+    "city-name": "טירת הכרמל",
+    "address": "סניף מטה הליכוד",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.1092731, "lng": 34.8226331 }
+  },
+  "location89": {
+    "status": 1,
+    "city-name": "טמרה",
+    "address": "מתחם תחנת דלק סונול / ארומה ומקדונלדס (כביש 70 סמוך לצומת טמרה)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.7764077, "lng": 35.0093025 }
+  },
+  "location90": {
+    "status": 0,
+    "city-name": "יבנה",
+    "address": "איצטדיון עירוני (בקופות)",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.1680402, "lng": 34.8250783 }
+  },
+  "location91": {
+    "status": 1,
+    "city-name": "יבנה",
+    "address": "זבוטינסקי/הנופר (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.9740116, "lng": 34.7974184 }
+  },
+  "location92": {
+    "status": 0,
+    "city-name": "יבניאל",
+    "address": "תחנת מד\"א",
+    "start-time": "08:00",
+    "end-time": "10:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location93": {
+    "status": 0,
+    "city-name": "יד בנימין",
+    "address": "מתנ\"ס נחל שורק",
+    "start-time": "07:00",
+    "end-time": "10:00",
+    "geolocation": { "lat": 31.7978992, "lng": 34.8228035 }
+  },
+  "location94": {
+    "status": 1,
+    "city-name": "יהוד",
+    "address": "ברקת 60",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0328769, "lng": 34.8719599 }
+  },
+  "location95": {
+    "status": 0,
+    "city-name": "יפיע",
+    "address": "אולם ספורט ליד בי\"ס תיכון אבו חאטום",
+    "start-time": "15:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0466423, "lng": 34.8145599 }
+  },
+  "location96": {
+    "status": 0,
+    "city-name": "יקיר",
+    "address": "במועדון",
+    "start-time": "20:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.103258, "lng": 34.8821695 }
+  },
+  "location97": {
+    "status": 1,
+    "city-name": "יקנעם עלית",
+    "address": "אולם ספורט",
+    "start-time": "08:00",
+    "end-time": "22:00",
+    "geolocation": { "lat": 32.079226, "lng": 34.8692602 }
+  },
+  "location98": {
+    "status": 0,
+    "city-name": "ירוחם",
+    "address": "בריכה עירונית",
+    "start-time": "10:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.901761, "lng": 35.0017238 }
+  },
+  "location99": {
+    "status": 0,
+    "city-name": "ירוחם",
+    "address": "שיבת ההסדר (רח' אליהו הנביא 1)",
+    "start-time": "07:00",
+    "end-time": "09:30",
+    "geolocation": {}
+  },
+  "location100": {
+    "status": 1,
+    "city-name": "ירושלים",
+    "address": "גילה (רח' לבונה 1)",
+    "start-time": "16:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 31.73509159999999, "lng": 35.1973634 }
+  },
+  "location101": {
+    "status": 1,
+    "city-name": "ירושלים",
+    "address": "יס פלאנט",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0994106, "lng": 34.8272365 }
+  },
+  "location102": {
+    "status": 1,
+    "city-name": "ירושלים",
+    "address": "סינמה סיטי",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1463519, "lng": 34.8040703 }
+  },
+  "location103": {
+    "status": 1,
+    "city-name": "ירושלים",
+    "address": "עין יעל (רכבים בלבד)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.743425, "lng": 35.178171 }
+  },
+  "location104": {
+    "status": 0,
+    "city-name": "ירושלים",
+    "address": "פסגת זאב",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.8311112, "lng": 35.241774 }
+  },
+  "location105": {
+    "status": 0,
+    "city-name": "ירושלים",
+    "address": "מתנ\"ס הר נוף",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 31.7848045, "lng": 35.1759326 }
+  },
+  "location106": {
+    "status": 0,
+    "city-name": "ירכא",
+    "address": "קניון כנען",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 32.9520737, "lng": 35.1797727 }
+  },
+  "location107": {
+    "status": 0,
+    "city-name": "ישיבת ההסדר טפחות",
+    "address": "ישיבת ההסדר טפחות",
+    "start-time": "15:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.8708055, "lng": 35.419465 }
+  },
+  "location108": {
+    "status": 0,
+    "city-name": "כאבול",
+    "address": "בניין המועצה",
+    "start-time": "12:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.02285, "lng": 34.811437 }
+  },
+  "location109": {
+    "status": 0,
+    "city-name": "כאוכב אבו אל",
+    "address": "היג'א",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 32.831888, "lng": 35.248701 }
+  },
+  "location110": {
+    "status": 0,
+    "city-name": "כסיפה",
+    "address": "תחנת מד\"א",
+    "start-time": "16:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location111": {
+    "status": 0,
+    "city-name": "כפר ורדים",
+    "address": "היכל הספורט (סמוך לבית החינוך אמירים)",
+    "start-time": "07:45",
+    "end-time": "15:00",
+    "geolocation": { "lat": 31.9715632, "lng": 34.7839369 }
+  },
+  "location112": {
+    "status": 0,
+    "city-name": "כפר חב''ד הרבי מליובאוויטש 14",
+    "address": "מתחם מד\"א",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0678637, "lng": 34.946984 }
+  },
+  "location113": {
+    "status": 1,
+    "city-name": "כפר יאסיף",
+    "address": "בניין שוגרי סנטר (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location114": {
+    "status": 1,
+    "city-name": "כפר יונה",
+    "address": "העלייה 43 (תחנת מד\"א)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.315179, "lng": 34.9282408 }
+  },
+  "location115": {
+    "status": 0,
+    "city-name": "כפר יעבץ",
+    "address": "צמוד למזכירות הישוב",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location116": {
+    "status": 0,
+    "city-name": "כפר כמא",
+    "address": "רחוב מזדאה סמוך למועצה",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0586929, "lng": 34.7845115 }
+  },
+  "location117": {
+    "status": 0,
+    "city-name": "כפר כנא",
+    "address": "מתנ\"ס ליד בי\"ס חט\"ב א'",
+    "start-time": "12:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.064683, "lng": 34.8551989 }
+  },
+  "location118": {
+    "status": 0,
+    "city-name": "כפר מונש",
+    "address": "חדר חוגים",
+    "start-time": "10:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 31.4321553, "lng": 34.8840963 }
+  },
+  "location119": {
+    "status": 0,
+    "city-name": "כפר משהד",
+    "address": "אולם ספורט החדש ליד בי\"ס יסודי א' בכניסה לכפר",
+    "start-time": "14:00",
+    "end-time": "16:00",
+    "geolocation": {}
+  },
+  "location120": {
+    "status": 1,
+    "city-name": "כפר סבא",
+    "address": "תחנת מד\"א (רח' טשרניחובסקי)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.180388, "lng": 34.8965051 }
+  },
+  "location121": {
+    "status": 0,
+    "city-name": "כפר קאסם",
+    "address": "מרכז רפואי אל מוסטאוסף",
+    "start-time": "07:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.1128053, "lng": 34.9685023 }
+  },
+  "location122": {
+    "status": 0,
+    "city-name": "כפר שבלי",
+    "address": "מתנ\"ס שיבלי",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.693122, "lng": 35.397544 }
+  },
+  "location123": {
+    "status": 1,
+    "city-name": "כפר תבור",
+    "address": "מתנ\"ס",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location124": {
+    "status": 1,
+    "city-name": "כרמיאל",
+    "address": "בכניסה לאמפיתיאטרון",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0990066, "lng": 34.8081322 }
+  },
+  "location125": {
+    "status": 1,
+    "city-name": "כרמיאל",
+    "address": "קניון חוצות כרמיאל",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.9281888, "lng": 35.325383 }
+  },
+  "location126": {
+    "status": 0,
+    "city-name": "לוד",
+    "address": "קוטנר 1 (תחנת מד\"א)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location127": {
+    "status": 0,
+    "city-name": "מ.א שדות נגב, היכל התרבות",
+    "address": "מ.א שדות נגב, היכל התרבות",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.4322839, "lng": 34.5923087 }
+  },
+  "location128": {
+    "status": 0,
+    "city-name": "מבשרת ציון",
+    "address": "שד' החוצבים (מתנ\"ס מעוז ציון)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.8015684, "lng": 35.1581104 }
+  },
+  "location129": {
+    "status": 0,
+    "city-name": "מג'אר",
+    "address": "אשכול פיס",
+    "start-time": "12:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0791588, "lng": 34.86993229999999 }
+  },
+  "location130": {
+    "status": 1,
+    "city-name": "מג'ד אל כרום",
+    "address": "תחנת מד\"א (ליד תחנת דלק יעד)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1950968, "lng": 34.8785797 }
+  },
+  "location131": {
+    "status": 0,
+    "city-name": "מגדל",
+    "address": "בניין המועצה",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.02285, "lng": 34.811437 }
+  },
+  "location132": {
+    "status": 1,
+    "city-name": "מגדל העמק",
+    "address": "משעול הכרמים 1",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0826724, "lng": 34.8792241 }
+  },
+  "location133": {
+    "status": 0,
+    "city-name": "מגדל העמק",
+    "address": "רח' רמת יזרעאל 5 (ליד מגרשי הטניס בגב של המתנ\"ס)",
+    "start-time": "12:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.1303095, "lng": 34.8389954 }
+  },
+  "location134": {
+    "status": 0,
+    "city-name": "מג'דל שמס",
+    "address": "טיפת חלב הישנה",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0800941, "lng": 34.878805 }
+  },
+  "location135": {
+    "status": 1,
+    "city-name": "מגילות",
+    "address": "בנין המועצה האזורית",
+    "start-time": "15:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.564512, "lng": 35.0190502 }
+  },
+  "location136": {
+    "status": 1,
+    "city-name": "מוא\"ז  מגידו",
+    "address": "מרכז תרבות מגידו",
+    "start-time": "17:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.5987258, "lng": 35.0989021 }
+  },
+  "location137": {
+    "status": 0,
+    "city-name": "מוא\"ז בני שמעון",
+    "address": "בית קמה",
+    "start-time": "14:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.446566, "lng": 34.762248 }
+  },
+  "location138": {
+    "status": 1,
+    "city-name": "מוא\"ז בני שמעון",
+    "address": "קיבוץ שובל",
+    "start-time": "18:50",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.413734, "lng": 34.745814 }
+  },
+  "location139": {
+    "status": 0,
+    "city-name": "מוא\"ז חוף אשקלון",
+    "address": "גלובוס סנטר מבקיעים (קומה 2 מול בית הקולנוע)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location140": {
+    "status": 0,
+    "city-name": "מוא\"ז מנשה",
+    "address": "מרכז אזורי (צמוד לתחנת מד\"א)",
+    "start-time": "13:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0338948, "lng": 34.85136749999999 }
+  },
+  "location141": {
+    "status": 0,
+    "city-name": "מוא\"ז משגב",
+    "address": "גן הקיימות",
+    "start-time": "07:30",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.8584416, "lng": 35.2617269 }
+  },
+  "location142": {
+    "status": 1,
+    "city-name": "מוא\"ז עמק יזרעאל",
+    "address": "אולם המופעים ביפעת (מפלס תחתון)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.6753689, "lng": 35.2239577 }
+  },
+  "location143": {
+    "status": 0,
+    "city-name": "מוא\"ז שדות ים",
+    "address": "מרכז מסחרי שכ' 3",
+    "start-time": "09:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 32.0725, "lng": 34.8819444 }
+  },
+  "location144": {
+    "status": 0,
+    "city-name": "מוא\"ז שומרון",
+    "address": "מנהלת גב ההר",
+    "start-time": "12:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.1752439, "lng": 35.2761305 }
+  },
+  "location145": {
+    "status": 1,
+    "city-name": "מוא\"ז תמר",
+    "address": "נאות הכיכר",
+    "start-time": "07:30",
+    "end-time": "20:00",
+    "geolocation": { "lat": 30.933368, "lng": 35.378126 }
+  },
+  "location146": {
+    "status": 0,
+    "city-name": "מוא\"ז תמר",
+    "address": "עין גדי",
+    "start-time": "08:30",
+    "end-time": "09:30",
+    "geolocation": { "lat": 31.4663099, "lng": 35.3943857 }
+  },
+  "location147": {
+    "status": 0,
+    "city-name": "מודיעין",
+    "address": "רח' עמק האלה 250",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.91951, "lng": 34.981551 }
+  },
+  "location148": {
+    "status": 1,
+    "city-name": "מועצה אזורית הר חברון",
+    "address": "מועצה אזורית הר חברון",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.4174932, "lng": 35.0828588 }
+  },
+  "location149": {
+    "status": 0,
+    "city-name": "מועצה אזורית עמק המעיינות",
+    "address": "בניין המועצה",
+    "start-time": "08:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.02285, "lng": 34.811437 }
+  },
+  "location150": {
+    "status": 1,
+    "city-name": "מועצה אזורית רמת נגב",
+    "address": "במשרדי המועצה",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.2129911, "lng": 34.8154373 }
+  },
+  "location151": {
+    "status": 1,
+    "city-name": "מועצה איזורית מרחבים",
+    "address": "מושב מבועים",
+    "start-time": "14:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.44945, "lng": 34.65499399999999 }
+  },
+  "location152": {
+    "status": 0,
+    "city-name": "מזכרת בתיה",
+    "address": "בית המתנדב (רח' חיים לוי)",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.8554523, "lng": 34.8417327 }
+  },
+  "location153": {
+    "status": 0,
+    "city-name": "מטה אשר מועצה אזורית",
+    "address": "ליד מתחם ביג רגבה",
+    "start-time": "08:00",
+    "end-time": "16:00",
+    "geolocation": { "lat": 32.9745544, "lng": 35.0948589 }
+  },
+  "location154": {
+    "status": 0,
+    "city-name": "מטולה",
+    "address": "מרכז קנדה",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 33.2780411, "lng": 35.5798138 }
+  },
+  "location155": {
+    "status": 0,
+    "city-name": "מיתר",
+    "address": "מרכז תרבות ליד המתנ\"ס",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.064683, "lng": 34.8551989 }
+  },
+  "location156": {
+    "status": 1,
+    "city-name": "מכללת עמק יזרעאל",
+    "address": "בחניה (רכבים בלבד)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0677156, "lng": 34.771254 }
+  },
+  "location157": {
+    "status": 0,
+    "city-name": "מנחמיה",
+    "address": "המייסדים 56",
+    "start-time": "08:00",
+    "end-time": "12:00",
+    "geolocation": { "lat": 32.0559023, "lng": 34.9233671 }
+  },
+  "location158": {
+    "status": 0,
+    "city-name": "מסעדה",
+    "address": "תחנת מד\"א",
+    "start-time": "17:30",
+    "end-time": "18:30",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location159": {
+    "status": 0,
+    "city-name": "מעלה אדומים",
+    "address": "בחניית אשכול הפייס במעלה אדומים (דריב אין",
+    "start-time": "10:00",
+    "end-time": "14:00",
+    "geolocation": { "lat": 31.7731, "lng": 35.297031 }
+  },
+  "location160": {
+    "status": 1,
+    "city-name": "מעלה אדומים",
+    "address": "מרכז פסג\"ה",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.075141, "lng": 34.869557 }
+  },
+  "location161": {
+    "status": 1,
+    "city-name": "מעלה אפרים",
+    "address": "מכינת \"בני דוד\"",
+    "start-time": "17:00",
+    "end-time": "22:00",
+    "geolocation": { "lat": 32.0716038, "lng": 35.2657123 }
+  },
+  "location162": {
+    "status": 1,
+    "city-name": "מעלה גלבוע",
+    "address": "במזכירות",
+    "start-time": "19:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.057808, "lng": 34.8734595 }
+  },
+  "location163": {
+    "status": 1,
+    "city-name": "מעלות",
+    "address": "רחוב הורד (אגם מונפורט )",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 33.00510240000001, "lng": 35.2939449 }
+  },
+  "location164": {
+    "status": 0,
+    "city-name": "מצפה רמון",
+    "address": "תחנת מד\"א, נחל חוה 1",
+    "start-time": "10:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 30.61080789999999, "lng": 34.8039546 }
+  },
+  "location165": {
+    "status": 0,
+    "city-name": "משכיות",
+    "address": "במועדון",
+    "start-time": "08:00",
+    "end-time": "12:00",
+    "geolocation": { "lat": 32.103258, "lng": 34.8821695 }
+  },
+  "location166": {
+    "status": 0,
+    "city-name": "מתחם מעין ברוך",
+    "address": "מתחם מעין ברוך",
+    "start-time": "07:00",
+    "end-time": "16:00",
+    "geolocation": { "lat": 33.239853, "lng": 35.608864 }
+  },
+  "location167": {
+    "status": 0,
+    "city-name": "מתנ\"ס בקעת הירדן (משואה)",
+    "address": "מתנ\"ס בקעת הירדן (משואה)",
+    "start-time": "10:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 32.111805, "lng": 35.490255 }
+  },
+  "location168": {
+    "status": 1,
+    "city-name": "נהריה",
+    "address": "היכל הספורט",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0823726, "lng": 34.8656172 }
+  },
+  "location169": {
+    "status": 0,
+    "city-name": "נהריה",
+    "address": "מתחם פארק גיל לכל גיל",
+    "start-time": "08:00",
+    "end-time": "16:30",
+    "geolocation": { "lat": 33.026091, "lng": 35.0954135 }
+  },
+  "location170": {
+    "status": 1,
+    "city-name": "נהריה",
+    "address": "תחנת מד\"א",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location171": {
+    "status": 0,
+    "city-name": "נוף הגליל",
+    "address": "דודג' סנטר (עופר סנטר, דרך אריאל שרון 41)",
+    "start-time": "11:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.6933333, "lng": 35.3036111 }
+  },
+  "location172": {
+    "status": 0,
+    "city-name": "נוף הגליל",
+    "address": "היכל התרבות ע\"ש ברקוביץ",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.699482, "lng": 35.3129876 }
+  },
+  "location173": {
+    "status": 1,
+    "city-name": "נוף הגליל",
+    "address": "כיכר מד\"א 3 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location174": {
+    "status": 1,
+    "city-name": "נוף הגליל",
+    "address": "שכונת הר יונה",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.7257313, "lng": 35.3413889 }
+  },
+  "location175": {
+    "status": 1,
+    "city-name": "נחם",
+    "address": "אולם ספורט",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.079226, "lng": 34.8692602 }
+  },
+  "location176": {
+    "status": 0,
+    "city-name": "נחף",
+    "address": "מתנ\"ס",
+    "start-time": "12:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location177": {
+    "status": 0,
+    "city-name": "נינג'ה סטאר",
+    "address": "סניף עד הלום",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.767055, "lng": 34.665499 }
+  },
+  "location178": {
+    "status": 0,
+    "city-name": "נס ציונה",
+    "address": "בריכת נס גלים",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.923238, "lng": 34.78423110000001 }
+  },
+  "location179": {
+    "status": 0,
+    "city-name": "נס ציונה",
+    "address": "דרייב אין (רכבים בלבד) כניסה מרחוב מרגולין/משתלת האירוסים",
+    "start-time": "07:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.9413387, "lng": 34.8011929 }
+  },
+  "location180": {
+    "status": 0,
+    "city-name": "נס ציונה",
+    "address": "הקאנטרי (רח' פאבל פרנקל)",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.9300348, "lng": 34.8109961 }
+  },
+  "location181": {
+    "status": 0,
+    "city-name": "נצרת",
+    "address": "מתחם ביג פאשן (מול פוקס הום)",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.7566839, "lng": 34.9890416 }
+  },
+  "location182": {
+    "status": 1,
+    "city-name": "נצרת",
+    "address": "שכ' מזרחית ליד הדואר (רח' אכסאל 4059)",
+    "start-time": "17:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.6996803, "lng": 35.2970785 }
+  },
+  "location183": {
+    "status": 0,
+    "city-name": "נשר",
+    "address": "קאנטרי Great Shape",
+    "start-time": "11:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.0935855, "lng": 34.8224648 }
+  },
+  "location184": {
+    "status": 0,
+    "city-name": "נתיבות",
+    "address": "בית הידידות (מוקד רפואי לשעבר)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.084959, "lng": 34.844088 }
+  },
+  "location185": {
+    "status": 1,
+    "city-name": "נתיבות",
+    "address": "האצטדיון החדש",
+    "start-time": "12:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.0007729, "lng": 34.7483546 }
+  },
+  "location186": {
+    "status": 0,
+    "city-name": "נתניה",
+    "address": "היכל התרבות",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0946061, "lng": 34.8892871 }
+  },
+  "location187": {
+    "status": 0,
+    "city-name": "נתניה",
+    "address": "מתנ\"ס",
+    "start-time": "12:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location188": {
+    "status": 1,
+    "city-name": "נתניה",
+    "address": "קריית השרון, במתנ\"ס (רח' תום לנטוס)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.3068902, "lng": 34.8690551 }
+  },
+  "location189": {
+    "status": 0,
+    "city-name": "נתניה יכין סנטר ספיר (א.ת. פולג)",
+    "address": "נתניה יכין סנטר ספיר (א.ת. פולג)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.2816667, "lng": 34.8627778 }
+  },
+  "location190": {
+    "status": 0,
+    "city-name": "נתניה מתנס עיר ימים",
+    "address": "נתניה מתנס עיר ימים",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.2811081, "lng": 34.8446314 }
+  },
+  "location191": {
+    "status": 0,
+    "city-name": "סאלם",
+    "address": "במתנ\"ס ליד המועצה",
+    "start-time": "14:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0791918, "lng": 34.8485013 }
+  },
+  "location192": {
+    "status": 1,
+    "city-name": "סביון",
+    "address": "בית תרבות",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0946061, "lng": 34.8892871 }
+  },
+  "location193": {
+    "status": 0,
+    "city-name": "סח'נין",
+    "address": "תחנת מד\"א",
+    "start-time": "14:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location194": {
+    "status": 0,
+    "city-name": "ספיר",
+    "address": "תחנת מד\"א",
+    "start-time": "08:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location195": {
+    "status": 1,
+    "city-name": "עוזייר (אלבטוף)",
+    "address": "קריית חינוך אולם החדש",
+    "start-time": "16:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0670502, "lng": 34.8667978 }
+  },
+  "location196": {
+    "status": 0,
+    "city-name": "עילוט",
+    "address": "מועדון נוער",
+    "start-time": "09:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 32.0762324, "lng": 34.8773204 }
+  },
+  "location197": {
+    "status": 0,
+    "city-name": "עין הנצי\"ב",
+    "address": "קדמא",
+    "start-time": "17:30",
+    "end-time": "19:00",
+    "geolocation": { "lat": 30.8743307, "lng": 34.788318 }
+  },
+  "location198": {
+    "status": 0,
+    "city-name": "עכו",
+    "address": "היכל התרבות",
+    "start-time": "14:00",
+    "end-time": "16:00",
+    "geolocation": { "lat": 32.0946061, "lng": 34.8892871 }
+  },
+  "location199": {
+    "status": 1,
+    "city-name": "עכו",
+    "address": "מתחם קניות עין המפרץ",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.902517, "lng": 35.092925 }
+  },
+  "location200": {
+    "status": 0,
+    "city-name": "עכו",
+    "address": "קניון עזריאלי",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0740769, "lng": 34.7922028 }
+  },
+  "location201": {
+    "status": 0,
+    "city-name": "עמק הירדן",
+    "address": "בניין המועצה האזורית",
+    "start-time": "07:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.133539, "lng": 34.910989 }
+  },
+  "location202": {
+    "status": 0,
+    "city-name": "עפולה",
+    "address": "מתחם הרכבת (התוכנה 4, בניין NEXTOP)",
+    "start-time": "08:00",
+    "end-time": "15:00",
+    "geolocation": {}
+  },
+  "location203": {
+    "status": 1,
+    "city-name": "עפולה",
+    "address": "רחוב וולפסון מבנה מאחורי טיפת חלב",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.05771, "lng": 34.7740791 }
+  },
+  "location204": {
+    "status": 1,
+    "city-name": "עפולה",
+    "address": "הגלריה העירונית (כניסה מרח' האתרוג)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.6134266, "lng": 35.2881623 }
+  },
+  "location205": {
+    "status": 0,
+    "city-name": "ערד",
+    "address": "אולם אורן",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0341733, "lng": 34.8497102 }
+  },
+  "location206": {
+    "status": 1,
+    "city-name": "עתלית",
+    "address": "רחוב המייסדים 26",
+    "start-time": "17:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0505822, "lng": 34.9226658 }
+  },
+  "location207": {
+    "status": 0,
+    "city-name": "פוריידיס",
+    "address": "מתנ\"ס פורדייס ספריה צמוד לביה\"ס המקיף בפרדיס",
+    "start-time": "13:00",
+    "end-time": "18:00",
+    "geolocation": {}
+  },
+  "location208": {
+    "status": 1,
+    "city-name": "פסוטה",
+    "address": "מתנ\"ס",
+    "start-time": "16:30",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0757821, "lng": 34.8769382 }
+  },
+  "location209": {
+    "status": 1,
+    "city-name": "פרדס חנה",
+    "address": "רח' הכורש 5",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0768208, "lng": 34.9110724 }
+  },
+  "location210": {
+    "status": 1,
+    "city-name": "פתח תקווה",
+    "address": "אולם המכבים",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0972772, "lng": 34.8887093 }
+  },
+  "location211": {
+    "status": 0,
+    "city-name": "פתח תקווה הרב עובדיה יוסף 2",
+    "address": "פארק סירקין (ספורטק)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0780835, "lng": 34.8970557 }
+  },
+  "location212": {
+    "status": 0,
+    "city-name": "צוחר",
+    "address": "מוקד רפואי ישן",
+    "start-time": "15:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 32.0673152, "lng": 34.7933847 }
+  },
+  "location213": {
+    "status": 0,
+    "city-name": "צומת כח",
+    "address": "בניין מוא\"ז מבואות חרמון",
+    "start-time": "14:00",
+    "end-time": "17:00",
+    "geolocation": { "lat": 33.0614193, "lng": 35.5548422 }
+  },
+  "location214": {
+    "status": 0,
+    "city-name": "צור הדסה",
+    "address": "בית העם",
+    "start-time": "14:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.081194, "lng": 34.8485979 }
+  },
+  "location215": {
+    "status": 0,
+    "city-name": "צור יגאל",
+    "address": "מועדון הנוער של הצופים (ליד בי\"ס נוף צורים)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0792341, "lng": 34.8748209 }
+  },
+  "location216": {
+    "status": 0,
+    "city-name": "צפת",
+    "address": "העצמאות 1 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "13:00",
+    "geolocation": { "lat": 32.0747125, "lng": 34.8712964 }
+  },
+  "location217": {
+    "status": 1,
+    "city-name": "צפת",
+    "address": "מתנ\"ס בלום",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.9581172, "lng": 35.4970542 }
+  },
+  "location218": {
+    "status": 0,
+    "city-name": "קדימה",
+    "address": "חנקין 60",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.021096, "lng": 34.7786704 }
+  },
+  "location219": {
+    "status": 1,
+    "city-name": "קיבוץ עמיר",
+    "address": "תחנת מד\"א",
+    "start-time": "17:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0972956, "lng": 34.8870999 }
+  },
+  "location220": {
+    "status": 0,
+    "city-name": "קלנסווה",
+    "address": "ראמא שירותי רפואה דחופה",
+    "start-time": "07:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.288511, "lng": 34.984748 }
+  },
+  "location221": {
+    "status": 0,
+    "city-name": "קצרין",
+    "address": "מתנ\"ס קצרין",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.9956662, "lng": 35.6890305 }
+  },
+  "location222": {
+    "status": 0,
+    "city-name": "קרית אונו",
+    "address": "ירמיהו 42 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0564492, "lng": 34.8662239 }
+  },
+  "location223": {
+    "status": 1,
+    "city-name": "קרית ארבע",
+    "address": "במתנ\"ס (מתחם הבריכה)",
+    "start-time": "14:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.064915, "lng": 34.8899228 }
+  },
+  "location224": {
+    "status": 1,
+    "city-name": "קרית אתא",
+    "address": "פארק הספורט (לוקי) (רח' בגין)",
+    "start-time": "14:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.8143207, "lng": 35.1224146 }
+  },
+  "location225": {
+    "status": 1,
+    "city-name": "קרית ביאליק",
+    "address": "מדרחוב הקיריון בסמוך לדומינוס פיצה (מונגש)",
+    "start-time": "08:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.07434, "lng": 34.869591 }
+  },
+  "location226": {
+    "status": 1,
+    "city-name": "קרית ביאליק",
+    "address": "רחוב יוסף פישר 33",
+    "start-time": "08:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.853045, "lng": 35.096387 }
+  },
+  "location227": {
+    "status": 1,
+    "city-name": "קרית גת",
+    "address": "כיכר הבנים (רובע הבנים) בסמוך לאיצטדיון כדורגל עירוני",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1680402, "lng": 34.8250783 }
+  },
+  "location228": {
+    "status": 0,
+    "city-name": "קרית טבעון",
+    "address": "גן יקינטון (רח' מורן)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.7341118, "lng": 35.1451457 }
+  },
+  "location229": {
+    "status": 0,
+    "city-name": "קרית ים",
+    "address": "פארק המדע (פלנטריום)",
+    "start-time": "08:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.3108936, "lng": 34.8479913 }
+  },
+  "location230": {
+    "status": 0,
+    "city-name": "קרית מוצקין",
+    "address": "פארק גולדה",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.8389513, "lng": 35.0775268 }
+  },
+  "location231": {
+    "status": 1,
+    "city-name": "קרית מלאכי",
+    "address": "בן גוריון 38",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0918359, "lng": 34.8223095 }
+  },
+  "location232": {
+    "status": 0,
+    "city-name": "קרית ענבים",
+    "address": "פארק ג'ננה",
+    "start-time": "10:00",
+    "end-time": "11:00",
+    "geolocation": { "lat": 31.8089877, "lng": 35.1209491 }
+  },
+  "location233": {
+    "status": 0,
+    "city-name": "קרית עקרון",
+    "address": "מתחם בי\"ס בן צבי (תחנת מד\"א, רח' משה שרת)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location234": {
+    "status": 0,
+    "city-name": "קרית שמונה",
+    "address": "דוד רזיאל 8 (מתנ\"ס ארתור פוקס)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 33.214253, "lng": 35.569192 }
+  },
+  "location235": {
+    "status": 0,
+    "city-name": "קרני שומרון",
+    "address": "מרכז הצעירים",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0768553, "lng": 34.8690445 }
+  },
+  "location236": {
+    "status": 0,
+    "city-name": "ראש העין",
+    "address": "זכריה משה (בניין הסימפוניה)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0977588, "lng": 34.9438355 }
+  },
+  "location237": {
+    "status": 0,
+    "city-name": "ראש פינה",
+    "address": "במתנ\"ס",
+    "start-time": "08:00",
+    "end-time": "10:00",
+    "geolocation": { "lat": 32.0791918, "lng": 34.8485013 }
+  },
+  "location238": {
+    "status": 0,
+    "city-name": "ראשון לציון",
+    "address": "הקאנטרי (דרך בן גוריון)",
+    "start-time": "09:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.9753314, "lng": 34.7926445 }
+  },
+  "location239": {
+    "status": 1,
+    "city-name": "ראשון לציון",
+    "address": "ז'בוטינסקי 104 (תחנת מד\"א)",
+    "start-time": "10:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.9740116, "lng": 34.7974184 }
+  },
+  "location240": {
+    "status": 0,
+    "city-name": "רהט",
+    "address": "אולם ספורט נימר אבו זעילה",
+    "start-time": "14:00",
+    "end-time": "18:00",
+    "geolocation": {}
+  },
+  "location241": {
+    "status": 0,
+    "city-name": "רחובות",
+    "address": "רמז 69 (תחנת מד\"א)",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.895141, "lng": 34.8044663 }
+  },
+  "location242": {
+    "status": 0,
+    "city-name": "ריינה",
+    "address": "אולם ספורט",
+    "start-time": "09:00",
+    "end-time": "13:00",
+    "geolocation": { "lat": 32.079226, "lng": 34.8692602 }
+  },
+  "location243": {
+    "status": 1,
+    "city-name": "רמלה",
+    "address": "איצטדיון",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1043211, "lng": 34.8652566 }
+  },
+  "location244": {
+    "status": 0,
+    "city-name": "רמת גן",
+    "address": "הפארק הלאומי צמוד לקפה קקאו",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.0506664, "lng": 34.8220891 }
+  },
+  "location245": {
+    "status": 0,
+    "city-name": "רמת גן",
+    "address": "מטולה 2 (מאחורי הדואר, קומה 1)",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": {}
+  },
+  "location246": {
+    "status": 1,
+    "city-name": "רמת השרון",
+    "address": "חניון סינמה סיטי גלילות",
+    "start-time": "07:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.145272, "lng": 34.8181428 }
+  },
+  "location247": {
+    "status": 1,
+    "city-name": "רמת השרון",
+    "address": "מתנ\"ס לוי (ארלוזרוב 20)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.136677, "lng": 34.8519349 }
+  },
+  "location248": {
+    "status": 1,
+    "city-name": "רעננה",
+    "address": "מתחם מנהלת העסקים (החרושת 27)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location249": {
+    "status": 1,
+    "city-name": "רעננה",
+    "address": "ספריית עיון (רח' אופסטרלנד)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.1803047, "lng": 34.8702072 }
+  },
+  "location250": {
+    "status": 0,
+    "city-name": "שדה אליהו",
+    "address": "חדר אוכל / בית תרבות",
+    "start-time": "07:00",
+    "end-time": "08:00",
+    "geolocation": { "lat": 32.0946061, "lng": 34.8892871 }
+  },
+  "location251": {
+    "status": 0,
+    "city-name": "שדרות",
+    "address": "אולם ספורט גיטיס",
+    "start-time": "09:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 31.5290432, "lng": 34.5872069 }
+  },
+  "location252": {
+    "status": 1,
+    "city-name": "שוהם",
+    "address": "תחנת מד\"א (רח' הזית)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 31.9389251, "lng": 34.8857412 }
+  },
+  "location253": {
+    "status": 0,
+    "city-name": "שלוחות",
+    "address": "מועדון נופש כפרי",
+    "start-time": "17:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 31.694863, "lng": 34.7189834 }
+  },
+  "location254": {
+    "status": 1,
+    "city-name": "שלומי",
+    "address": "המגרש המשולב סמוך למתנ\"ס שלומי",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": {}
+  },
+  "location255": {
+    "status": 0,
+    "city-name": "שמשית",
+    "address": "שחם 1 (תחנת מד\"א)",
+    "start-time": "07:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0866978, "lng": 34.858952 }
+  },
+  "location256": {
+    "status": 0,
+    "city-name": "שעב",
+    "address": "מרכז הנוער",
+    "start-time": "16:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.0802277, "lng": 34.8661656 }
+  },
+  "location257": {
+    "status": 1,
+    "city-name": "שערי תקווה",
+    "address": "\"המרתף\" (רח' יהלום 27, מתחת למרכז המסחרי)",
+    "start-time": "12:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.0299431, "lng": 34.8695719 }
+  },
+  "location258": {
+    "status": 0,
+    "city-name": "שפיים",
+    "address": "בכניסה לפארק המים",
+    "start-time": "08:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.2145031, "lng": 34.82053399999999 }
+  },
+  "location259": {
+    "status": 1,
+    "city-name": "שפרעם",
+    "address": "אולם מקיף בית ספר א",
+    "start-time": "16:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.0711594, "lng": 34.7838457 }
+  },
+  "location260": {
+    "status": 0,
+    "city-name": "שקד",
+    "address": "מתחם החירום (תחנת מד\"א)",
+    "start-time": "11:00",
+    "end-time": "15:00",
+    "geolocation": { "lat": 32.0806033, "lng": 34.824431 }
+  },
+  "location261": {
+    "status": 0,
+    "city-name": "תל אביב",
+    "address": "ישיבת מעלה אליהו",
+    "start-time": "17:30",
+    "end-time": "19:30",
+    "geolocation": { "lat": 32.079547, "lng": 34.791993 }
+  },
+  "location262": {
+    "status": 1,
+    "city-name": "תל אביב",
+    "address": "מתחם הבימה (שד' תרס\"ט 2)",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.072387, "lng": 34.7795841 }
+  },
+  "location263": {
+    "status": 0,
+    "city-name": "תל אביב",
+    "address": "מתחם הבימה (שד' תרס\"ט 2)",
+    "start-time": "07:00",
+    "end-time": "08:00",
+    "geolocation": { "lat": 32.072387, "lng": 34.7795841 }
+  },
+  "location264": {
+    "status": 1,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "07:00",
+    "end-time": "23:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location265": {
+    "status": 1,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "10:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location266": {
+    "status": 0,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "10:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location267": {
+    "status": 1,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "08:00",
+    "end-time": "20:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location268": {
+    "status": 0,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "08:00",
+    "end-time": "19:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location269": {
+    "status": 0,
+    "city-name": "תל אביב",
+    "address": "יפו",
+    "start-time": "10:00",
+    "end-time": "18:00",
+    "geolocation": { "lat": 32.049357, "lng": 34.758355 }
+  },
+  "location270": {
+    "status": 1,
+    "city-name": "תל אביב",
+    "address": "יפו שד' חב\"ד 26",
+    "start-time": "10:00",
+    "end-time": "21:00",
+    "geolocation": { "lat": 32.0413227, "lng": 34.7540582 }
+  },
+  "location271": {
+    "status": 0,
+    "city-name": "תל יוסף",
+    "address": "מרכז צעירים תכלס",
+    "start-time": "15:30",
+    "end-time": "17:30",
+    "geolocation": { "lat": 32.55169, "lng": 35.3937502 }
+  }
+}

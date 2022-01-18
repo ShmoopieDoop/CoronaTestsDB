@@ -1,0 +1,116 @@
+{
+  "location0": {
+    "city-name": "אשדוד",
+    "address": "תחנת מדא- אלטלנה פינת רפואה",
+    "start-time": "17:00",
+    "end-time": "20:15"
+  },
+  "location1": {
+    "city-name": "באר שבע",
+    "address": "תחנת מדא- סוקולוב 4",
+    "start-time": "16:00",
+    "end-time": "20:00"
+  },
+  "location2": {
+    "city-name": "הרצליה",
+    "address": "תחנת מדא- סוקולוב 76",
+    "start-time": "9:00",
+    "end-time": "11:00"
+  },
+  "location3": {
+    "city-name": "הרצליה",
+    "address": "תחנת מדא- סוקולוב 76",
+    "start-time": "16:00",
+    "end-time": "19:15"
+  },
+  "location4": {
+    "city-name": "חדרה",
+    "address": "תחנת מדא- אביאור 7",
+    "start-time": "16:00",
+    "end-time": "20:30"
+  },
+  "location5": {
+    "city-name": "חיפה",
+    "address": "תחנת מדא- יצחק שדה 10",
+    "start-time": "17:00",
+    "end-time": "19:45"
+  },
+  "location6": {
+    "city-name": "ירושלים",
+    "address": "תחנת מדא- המ\"ג 7",
+    "start-time": "16:00",
+    "end-time": "22:00"
+  },
+  "location7": {
+    "city-name": "כפר סבא",
+    "address": "תחנת מדא- טשרניחובסקי 51",
+    "start-time": "16:45",
+    "end-time": "19:45"
+  },
+  "location8": {
+    "city-name": "מודיעין",
+    "address": "עמק האלה בחניון פארק המים",
+    "start-time": "10:00",
+    "end-time": "12:30"
+  },
+  "location9": {
+    "city-name": "נתניה",
+    "address": "תחנת מדא- בנימין מינץ 7",
+    "start-time": "16:00",
+    "end-time": "21:00"
+  },
+  "location10": {
+    "city-name": "עכו",
+    "address": "תחנת מדא- יוסף גדיש 1",
+    "start-time": "17:00",
+    "end-time": "19:15"
+  },
+  "location11": {
+    "city-name": "עפולה",
+    "address": "הגלריה העירונית חטיבה תשע 15",
+    "start-time": "16:00",
+    "end-time": "18:00"
+  },
+  "location12": {
+    "city-name": "פתח תקווה",
+    "address": "תחנת מדא- המכבים 30",
+    "start-time": "16:00",
+    "end-time": "20:15"
+  },
+  "location13": {
+    "city-name": "קרית מוצקין",
+    "address": "תחנת מדא- החשמונאים 75",
+    "start-time": "17:00",
+    "end-time": "19:30"
+  },
+  "location14": {
+    "city-name": "ראשון לציון",
+    "address": "תחנת מדא- ז'בוטינסקי 104",
+    "start-time": "17:00",
+    "end-time": "20:00"
+  },
+  "location15": {
+    "city-name": "רחובות",
+    "address": "תחנת מדא- דוד רמז 71",
+    "start-time": "17:00",
+    "end-time": "20:00"
+  },
+  "location16": {
+    "city-name": "רמת גן",
+    "address": "מטולה 2",
+    "start-time": "16:00",
+    "end-time": "21:00"
+  },
+  "location17": {
+    "city-name": "תל אביב",
+    "address": "תחנת מדא- יגאל אלון 60",
+    "start-time": "17:00",
+    "end-time": "21:30"
+  },
+  "location18": {
+    "city-name": "תל אביב",
+    "address": "נמל תל אביב ביתן34 חנות סופר פארטי לשעבר",
+    "start-time": "9:00",
+    "end-time": "12:00"
+  }
+}
