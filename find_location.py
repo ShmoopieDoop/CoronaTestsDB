@@ -47,23 +47,17 @@ def add_geolocation(filename):
         json.dump(data, f, ensure_ascii=False)
 
 
-def find_closest_loc():
+def find_closest_loc(user_loc, loc_count):
     with open("./testData/madaQuickTests.json", "r") as f:
         data: dict = json.load(f)
-    me = geocoder.ip("me").latlng
-    me = {"lat": me[0], "lng": me[1]}
-    closest = data["location0"]
-    min_d = geo_dist(me, closest["geolocation"])
-    for i, loc in enumerate(data.values(), start=1):
-        loc_geo = loc["geolocation"]
-        if loc_geo:
-            smaller = min(min_d, geo_dist(me, loc_geo))
-            if smaller != min_d:
-                min_d = smaller
-                closest = loc
-    print(me)
-    print(closest)
-    print(min_d)
+    locs = list(data.values())
+    locs.sort(
+        key=lambda x: geo_dist(x["geolocation"], user_loc)
+        if x["geolocation"]
+        else 9999999999
+    )
+    return locs[:loc_count]
 
 
-find_closest_loc()
+a = find_closest_loc({"lat": 32.0103, "lng": 34.7792}, 10)
+

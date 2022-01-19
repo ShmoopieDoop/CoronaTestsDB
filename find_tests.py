@@ -7,6 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import selenium
+from datetime import datetime
 import time
 
 
@@ -69,28 +70,6 @@ def write_mada(data, filename):
         json.dump(locations, j, ensure_ascii=False)
 
 
-def get_mada():
-    URL = "https://f.mda.org.il:8867/CentersInfo/centers-list"
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument("disable-blink-features=AutomationControlled")
-    driver = webdriver.Chrome(ChromeDriverManager().install())
-    driver.get(URL)
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(
-                (By.XPATH, "/html/body/app-root/app-centers/table/tr[2]")
-            )
-        )
-    except selenium.common.exceptions.TimeoutException:
-        print("error")
-        driver.quit()
-
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    driver.quit()
-    table = soup.find_all("tr")[1:]
-    write_mada(table, "madaQuickTests.json")
-
-
 def write_ichilov(data, filename):
     locations = {}
     for i, cell in enumerate(data):
@@ -115,3 +94,19 @@ def get_ichilov():
         rows: list[BeautifulSoup] = table.find_all("tr")
         write_ichilov(rows, names[i])
 
+
+def get_mada():
+    URL = "https://f.mda.org.il:8867/Scheduling/api/Quick/GetCentersForMDAIS"
+    headers = {
+        "x-abyss-token": "f86b3a1d-e3c0-431a-bde8-c88535cc023a",
+    }
+    result = requests.post(
+        URL,
+        json={"Date": str(datetime.today().isoformat()), "Language": "he"},
+        headers=headers,
+    )
+    with open("./testData/madaQuickTests.json", "w") as f:
+        json.dump(result.json(), f, ensure_ascii=False)
+
+
+get_mada()
