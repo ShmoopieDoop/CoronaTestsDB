@@ -36,7 +36,7 @@ class Locations(Resource):
 
 
 class Refresh(Resource):
-    def post(self):
+    def get(self):
         return {"stuff": "Hello World"}
 
 
