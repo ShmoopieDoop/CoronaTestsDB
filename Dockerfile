@@ -1,6 +1,6 @@
 FROM python:latest
-ARG PORT=5000
-EXPOSE $PORT
+ARG API_PORT=5000
+EXPOSE $API_PORT
 RUN pip install flask "pymongo[srv]"  requests  flask-restful flask-cors beautifulsoup4 python-dotenv
 ARG MONGO_USER_PASSWORD
 WORKDIR /app
