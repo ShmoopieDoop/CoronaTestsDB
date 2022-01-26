@@ -1,16 +1,9 @@
 import requests
 import json
 import math
-import pymongo
+from pymongo import GEOSPHERE
+from db import colec
 import os
-
-KEY = "AIzaSyDa9utUpcaPfpA9M3VP7zOTZe9ytm03Hws"
-
-mongo_client = pymongo.MongoClient(
-    f"mongodb+srv://ShmoopieDoop:{os.environ.get('MONGO_USER_PASSWORD')}@cluster0.ylm9c.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-)
-db = mongo_client["testLocations"]
-colec = db["testLocations"]
 
 
 def geo_dist(l1, l2):  #! Deprecated
@@ -31,7 +24,7 @@ def geo_dist(l1, l2):  #! Deprecated
 def get_geolocation(location):
     address: str = location["address"]
     URL = f"""
-    https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={address.replace(' ', '%20')}&inputtype=textquery&fields=formatted_address%2Cname%2Cgeometry&key={KEY}
+    https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={address.replace(' ', '%20')}&inputtype=textquery&fields=formatted_address%2Cname%2Cgeometry&key={os.environ.get('KEY')}
     """.encode(
         "utf-8"
     )
@@ -67,11 +60,10 @@ def find_closest_loc(user_loc, loc_count):  #! Deprecated
 
 
 def find_near(geoJSON, limit=1):
-    col = db["testLocations"]
-    if "location_2dsphere" not in col.index_information():
-        col.create_index([("location", pymongo.GEOSPHERE)])
+    if "location_2dsphere" not in colec.index_information():
+        colec.create_index([("location", GEOSPHERE)])
     locations = []
-    for doc in col.find(
+    for doc in colec.find(
         {"location": {"$nearSphere": geoJSON["coordinates"]}}, projection={"_id": False}
     ).limit(limit):
         locations.append(doc)
