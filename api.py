@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
 from flask_cors import CORS
@@ -43,4 +44,4 @@ api.add_resource(Locations, "/locations")
 api.add_resource(Refresh, "/refresh")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True)
+    app.run(host="0.0.0.0", port=os.getenv("PORT"), debug=True)
