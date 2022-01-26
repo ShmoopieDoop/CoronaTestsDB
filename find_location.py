@@ -1,12 +1,19 @@
 import requests
 import json
 import math
-import geocoder
+import pymongo
+import os
 
 KEY = "AIzaSyDa9utUpcaPfpA9M3VP7zOTZe9ytm03Hws"
 
+mongo_client = pymongo.MongoClient(
+    f"mongodb+srv://ShmoopieDoop:{os.environ.get('MONGO_USER_PASSWORD')}@cluster0.ylm9c.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+)
+db = mongo_client["testLocations"]
+colec = db["testLocations"]
 
-def geo_dist(l1, l2):
+
+def geo_dist(l1, l2):  #! Deprecated
     R = 6371000
     ANG1 = l1["lat"] * math.pi / 180
     ANG2 = l2["lat"] * math.pi / 180
@@ -47,7 +54,7 @@ def add_geolocation(filename):
         json.dump(data, f, ensure_ascii=False)
 
 
-def find_closest_loc(user_loc, loc_count):
+def find_closest_loc(user_loc, loc_count):  #! Deprecated
     with open("./testData/madaQuickTests.json", "r") as f:
         data: dict = json.load(f)
     locs = list(data.values())
@@ -59,5 +66,13 @@ def find_closest_loc(user_loc, loc_count):
     return locs[:loc_count]
 
 
-a = find_closest_loc({"lat": 32.0103, "lng": 34.7792}, 10)
-
+def find_near(geoJSON, limit=1):
+    col = db["testLocations"]
+    if "location_2dsphere" not in col.index_information():
+        col.create_index([("location", pymongo.GEOSPHERE)])
+    locations = []
+    for doc in col.find(
+        {"location": {"$nearSphere": geoJSON["coordinates"]}}, projection={"_id": False}
+    ).limit(limit):
+        locations.append(doc)
+    return locations
