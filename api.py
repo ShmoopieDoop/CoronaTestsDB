@@ -44,4 +44,4 @@ api.add_resource(Locations, "/locations")
 api.add_resource(Refresh, "/refresh")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=os.getenv("PORT"), debug=True, ssl_context="adhoc")
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)), debug=True)

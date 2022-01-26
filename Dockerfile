@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:3.10-slim
 ARG PORT=5000
 ENV PORT=$PORT
 EXPOSE $PORT
@@ -7,4 +7,4 @@ RUN pip install -r requirements.txt
 ARG MONGO_USER_PASSWORD
 WORKDIR /app
 COPY . .
-ENTRYPOINT [ "python3", "api.py" ]
+CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 api:app

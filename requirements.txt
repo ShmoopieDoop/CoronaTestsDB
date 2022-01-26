@@ -5,4 +5,4 @@ flask-restful
 flask-cors
 beautifulsoup4
 python-dotenv
-pyopenssl
+gunicorn
