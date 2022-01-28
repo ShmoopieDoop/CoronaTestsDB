@@ -6,3 +6,4 @@ flask-cors
 beautifulsoup4
 python-dotenv
 gunicorn
+apscheduler
