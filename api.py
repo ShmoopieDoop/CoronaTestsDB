@@ -37,9 +37,7 @@ scheduler = BackgroundScheduler()
 scheduler.add_job(
     func=insert_to_db.refreshDB,
     trigger="cron",
-    # hour=5,
-    hour=12,
-    minute=39,
+    hour=5,
     timezone=pytz.timezone("Israel"),
 )
 scheduler.start()
