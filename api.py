@@ -4,8 +4,8 @@ from flask_restful import Resource, Api, reqparse
 from flask_cors import CORS
 import find_location
 import insert_to_db
-import logging
 import pytz
+import logging
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 from dotenv import load_dotenv
@@ -31,19 +31,15 @@ location_get_args.add_argument(
 )
 
 
-logging.basicConfig(
-    level=logging.DEBUG,
-    filename="DB.log",
-    filemode="w",
-    format="%(name)s - %(levelname)s - %(message)s",
-)
-
+logging.basicConfig(level=logging.DEBUG, filename="info.log", filemode="w")
 
 scheduler = BackgroundScheduler()
 scheduler.add_job(
     func=insert_to_db.refreshDB,
     trigger="cron",
-    hour=5,
+    # hour=5,
+    hour=12,
+    minute=39,
     timezone=pytz.timezone("Israel"),
 )
 scheduler.start()

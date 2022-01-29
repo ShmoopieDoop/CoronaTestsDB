@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 from db import colec
-import logging
+import log
 
 
 def write_ichilov(data, test_type):
@@ -66,13 +66,13 @@ def format_mada(data):
 def refreshDB():
     print("works")
     try:
-        logging.info("Starting refresh...")
+        log.logger.info("Starting refresh...")
         colec.drop()
         get_ichilov()
         get_mada()
-        logging.info("Refreshed!")
+        log.logger.info("Refreshed!")
     except Exception as e:
-        logging.error(f"refresh failed :( \nException: {e}")
+        log.logger.error(f"refresh failed :( \nException: {e}")
 
 
 if __name__ == "__main__":

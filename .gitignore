@@ -1,3 +1,5 @@
+/__pycache__
+/.vscode
+DB.log
 .env
-__pycache__/
-.vscode/
+test.ipynb
